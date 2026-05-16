@@ -2,7 +2,7 @@
 
 ## Description:
 
-"The Kaboom Device™ is a sophisticated device designed precisely by our prestigious group, Blurple, designed solely for the purpose of blowing up the Stasis venue and stealing all the possesions. The design features a [BLANK], a [BLANK], and a [BLANK]. Its built by harvesting the internals of an old multi-purpose radio, an ESP-32, some servo motors, runs off DC power, and a special, one-of-a-kind 3D-printed bomb enclosure to fufill your TSA nightmares."
+"The Kaboom Device™ is a sophisticated device designed precisely by our prestigious group, Blurple, designed solely for the purpose of blowing up the Stasis venue and stealing all the possessions. The design features a [BLANK], a [BLANK], and a [BLANK]. It is built by harvesting the internals of an old multi-purpose radio, an ESP-32, some servo motors, runs off DC power, and a special, one-of-a-kind 3D-printed bomb enclosure to fulfill your TSA nightmares."
 
                                                                                 -_Tenorangesax_
 
