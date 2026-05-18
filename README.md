@@ -21,7 +21,10 @@
 
 
 ##INTERAL 3D PRINTED MECHANICS:
+
+
 <img width="382" height="454" alt="Screenshot 2026-05-18 at 8 01 21 AM" src="https://github.com/user-attachments/assets/506a9963-3c98-4dfd-9bfa-5650ac4ade17" />
+
 <img width="305" height="310" alt="Screenshot 2026-05-18 at 8 01 50 AM" src="https://github.com/user-attachments/assets/313a3c53-99c8-49bc-b0b4-5a2c6190c7bc" />
 
 [https://cad.onshape.com/documents/9cd8d1ce4def1ab03a69112b/w/72fe04e3cb3dd70f02f6e710/e/d85d17bb0318f012afde3782
