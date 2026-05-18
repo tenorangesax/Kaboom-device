@@ -16,7 +16,8 @@
                                                                                 -Swn
                                                                                                                                                                                                               
 ## DEMO PICTURES!! (full vid in Pictures-and-videos folder!):
-[instert gif in easygif maker with pictures]
+<img width="1920" height="1920" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/10b8a703-cf4b-47ab-8758-0a18f33e8425" />
+
 
 
 ## 3D PRINTED CASE + INTERAL 3D PRINTED MECHANICS:
