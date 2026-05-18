@@ -18,9 +18,6 @@
 ## DEMO PICTURES!! (full vid in Pictures-and-videos folder!):
 [instert gif in easygif maker with pictures]
 
-## SCHEMATIC:
-
-[instert shot of schematic]
 
 ## 3D PRINTED CASE + INTERAL 3D PRINTED MECHANICS:
 
@@ -30,4 +27,7 @@ https://cad.onshape.com/documents/9cd8d1ce4def1ab03a69112b/w/72fe04e3cb3dd70f02f
 
 ## ASSEMBLED INTERNALS:
 
-[Insert shot of assembled internals]
+<img width="3900" height="5200" alt="IMG_7381" src="https://github.com/user-attachments/assets/c5d79aab-8050-4960-9b34-4d2ce3c2581a" />
+<img width="4526" height="4526" alt="IMG_7387" src="https://github.com/user-attachments/assets/19cee692-8261-4ac6-b1e0-5349823dde1e" />
+<img width="4204" height="4204" alt="IMG_7386" src="https://github.com/user-attachments/assets/e461665f-3c89-432f-bf18-71a68cd34888" />
+
