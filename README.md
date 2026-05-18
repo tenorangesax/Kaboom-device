@@ -20,7 +20,7 @@
 
 
 
-##INTERAL 3D PRINTED MECHANICS:
+## INTERAL 3D PRINTED MECHANICS:
 
 
 <img width="382" height="454" alt="Screenshot 2026-05-18 at 8 01 21 AM" src="https://github.com/user-attachments/assets/506a9963-3c98-4dfd-9bfa-5650ac4ade17" />
