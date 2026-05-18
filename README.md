@@ -26,6 +26,8 @@
 
 [Insert random shot of wtv]
 
+https://cad.onshape.com/documents/9cd8d1ce4def1ab03a69112b/w/72fe04e3cb3dd70f02f6e710/e/d85d17bb0318f012afde3782
+
 ## ASSEMBLED INTERNALS:
 
 [Insert shot of assembled internals]
